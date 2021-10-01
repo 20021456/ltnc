@@ -10,5 +10,6 @@ int main() {
     } else {
         cout << "YES";
     }
+    cout << "trung dep trai";
     system("pause");
 }
